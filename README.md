@@ -1,8 +1,8 @@
 ## Welcome to Coffee Perks
 
-Coffee Perks is a loyalty program that provides coffee lovers with discounts and promotions on their coffee shop purchases. 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Coffee Perks is a loyalty program that provides coffee lovers with discounts and promotional offers on their coffee shop purchases. 
+The Coffee Perks loyalty program is 100% free to customers and the coupons can be used at any major coffee shop chain in the United States. 
+The signup process is quick and easy with only a short form to complete on our website in order to sign up and receive yout first coupon. 
 
 ### Markdown
 
