@@ -1,9 +1,5 @@
 # Devin Widmer
 
-
-
-![Image](https://i.ibb.co/PwQ2ryz/Screenshot-20210717-052031-Instagram-1.jpg)
-
 ## About Me
   Hello, My name is Devin Widmer and I am pursuing my dream career as a software engineer. I am currently working as a software engineer intern at a local company in San Diego while I complete my final term for my degree program. I am pursuing a Bachelor of Science in Computer Science with a concentration in Software Engineering from Southern New Hampshire University. Completing my coursework throughout the Computer Science program at SNHU has really helped me to shape my professional goals and prepared me to become more employable in field. When I fisrt started my degree program I knew the basics of HTML, CSS, and Java programming languages, but not much else. The courses at SNHU have exposed me to Python, C++, C, binary, SQL, and Javascript. By learning about and gaining experience in different programming languages, I was able to better focus on what I liked and what I would like to pursue as a career after graduation. In addition to programming, I also gained experience in collaborating in a team environment and communicating to stakeholders.  In previous terms I completed courses that focused on source control and versioning practices in a team environment, secure coding practices, working in an agile development environment, and the Software Development Life Cycle.
 
